@@ -420,3 +420,11 @@ table.imgtable, table.imgtable td {
 	margin-left: -0.05em;
 	margin-right: 0em;
 }
+.card {
+  width: 150px;                 /* Set width of cards */
+  border: 1px solid #EF9A9A;    /* Set up Border */
+  border-radius: 4px;           /* Slightly Curve edges */
+  overflow: hidden;             /* Fixes the corners */
+  display: flex;                /* Children use Flexbox */
+  flex-direction: column;       /* Rotate Axis */
+}
