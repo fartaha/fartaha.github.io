@@ -6,3 +6,14 @@
 <div class="figfull"><a href="http://www.cs.nyu.edu/~mohri/mlbook/10290_pptd.jpg" class="plain"><img class="figfull" src="images/neural_net.svg" title="OpenMP thread numbers" width="50" height="60"></a></div>
 
 <div class="figfull"><a href="http://www.cs.nyu.edu/~mohri/mlbook/10290_pptd.jpg" class="plain"><img class="figfull" src="http://www.cs.nyu.edu/~mohri/mlbook/10290_pptd.jpg" title="OpenMP thread numbers" width="50" height="60"></a></div>
+
+
+<img src="https://www.computerhope.com/cdn/media/logo-200-gray.png" class="centerImage" alt="CH Logo" height="120" width="350">
+
+
+#####################
+# neural net drawig #
+#####################
+https://tex.stackexchange.com/questions/153957/drawing-neural-network-with-tikz
+
+https://tikz.net/neural_networks/
